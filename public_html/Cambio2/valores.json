@@ -1,0 +1,14 @@
+{
+    "real" :{
+        "dolar" : 0.25,
+        "euro" : 0.23
+    },
+    "dolar" : {
+        "real" : 4,
+        "euro" : 0.89
+    },
+    "euro" : {
+        "dolar" : 1.12,
+        "real" : 4.40
+    }
+}

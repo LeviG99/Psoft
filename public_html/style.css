@@ -1,0 +1,18 @@
+header{
+  font-size: 100px;
+  text-align: center;  
+}
+main{
+    font-size: 30px;
+    color: forestgreen;
+}
+nav{
+    display: grid;
+    grid-row-gap: 10px;
+    font-size: 20px;
+}
+footer{
+    font-size: 30px;
+    text-align:center;
+    color: aqua;
+}
